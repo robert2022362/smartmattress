@@ -6,4 +6,4 @@ DNNs, CNNs, and LSTMs were tested. DNNs have the highest accuracy of +-4bpm.
 
 The code uses Python 3.8 and Tensorflow 2.
 
-models.ipynb contains the Tensorflow models, utils.py contains the data preprocessing code, and the folder "Mattress Code" contains the Matlab code used to retrieve data from the mattress.
+models.ipynb contains the Tensorflow models, utils.py contains the data preprocessing code, and the folder "Mattress Code" contains the Matlab code used to retrieve the data measured by the fiber-optic sensors in the mattress.
